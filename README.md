@@ -31,4 +31,5 @@ A programming language used to create interactive effects within web browsers. I
 A JavaScript library for building user interfaces. React is used for creating reusable UI components and managing the state of the application efficiently.
 Contact
 
-### You can contact me at navyasribuchepalli@gmail.com.
+### You can contact me at deepabuchepalli@gmail.com.
+
